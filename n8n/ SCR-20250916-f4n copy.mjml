@@ -1,0 +1,131 @@
+```mjml
+<mjml>
+  <mj-body background-color="#f1f3f6" width="600px">
+    <mj-section padding="15px 0 0" background-color="#f1f3f6">
+      <mj-column>
+        <mj-text align="center" color="#9aa3b1" font-size="13px" padding="0" font-family="Arial, sans-serif">
+          View in browser
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px 25px 15px" background-color="#f1f3f6">
+      <mj-column vertical-align="middle" width="60px">
+        <mj-image src="https://placehold.co/60x30/purple/white?text=ACME" alt="ACME" width="60px" padding="0"></mj-image>
+      </mj-column>
+
+      <mj-column vertical-align="middle" width="auto">
+        <mj-social padding="0" icon-size="18px" mode="horizontal" align="right" font-size="0">
+          <mj-social-element name="facebook" href="#" background-color="#f1f3f6" padding="0 4px"></mj-social-element>
+          <mj-social-element name="twitter" href="#" background-color="#f1f3f6" padding="0 4px"></mj-social-element>
+          <mj-social-element name="instagram" href="#" background-color="#f1f3f6" padding="0 4px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 15px 0" background-color="#f1f3f6">
+      <mj-column>
+        <mj-image src="https://placehold.co/600x320?text=Artful+Accents+Image" alt="Artful Accents" width="600px" padding="0"></mj-image>
+
+        <mj-text padding="15px 25px 0" align="center" color="#ffffff" font-size="14px" font-weight="bold" font-family="Arial, sans-serif" css-class="new-article" line-height="18px">
+          New article
+        </mj-text>
+
+        <mj-text padding="5px 25px 10px" align="center" color="#ffffff" font-size="24px" font-family="Arial, sans-serif" font-weight="bold" line-height="28px">
+          Artful Accents
+        </mj-text>
+
+        <mj-text padding="0 25px 20px" align="center" color="#ffffff" font-size="16px" font-family="Arial, sans-serif" line-height="22px" font-weight="normal">
+          Uncover the power of accent furniture in transforming your space with subtle touches of style, personality, and functionality, as we explore the art of curating captivating accents for a truly curated home
+        </mj-text>
+
+        <mj-button href="#" background-color="#fff" color="#141B2D" padding="10px 25px" border-radius="6px" font-family="Arial, sans-serif" font-size="16px" inner-padding="8px 16px" align="center">
+          Read more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f1f3f6" padding="0 25px 0 25px">
+      <mj-column>
+        <mj-divider border-color="#d9dbe5" border-width="1px" padding="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f1f3f6" padding="20px 25px 0 25px">
+      <mj-column>
+        <mj-text font-family="Arial, sans-serif" color="#141B2D" font-size="20px" font-weight="bold" padding="0 0 8px 0" line-height="24px">
+          Functional Style
+        </mj-text>
+
+        <mj-text font-family="Arial, sans-serif" color="#6e7587" font-size="16px" padding="0 0 20px 0" line-height="22px">
+          Combine practicality and style effortlessly with our furniture, offering functional designs that enhance your living space
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f1f3f6" padding="0 25px 0 25px">
+      <mj-column>
+        <mj-table font-family="Arial, sans-serif" color="#6e7587" font-size="16px" cellpadding="6" cellspacing="0" width="100%" padding="0">
+          <tbody>
+            <tr>
+              <td width="24" align="center" style="background-color:#e6dbff; border-radius:50%;"><img src="https://placehold.co/14x14/purple/purple?text=✓" alt="check" width="14" height="14" style="display:block" /></td>
+              <td style="padding-left:10px; font-weight:bold; color:#141B2D;">Sleek Simplicity</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td style="padding-left:34px; color:#6e7587; font-weight:normal; font-size:14px;">Minimalist furniture that embraces clean lines and effortless style.</td>
+            </tr>
+          </tbody>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f1f3f6" padding="0 25px 20px 25px">
+      <mj-column>
+        <mj-table font-family="Arial, sans-serif" color="#6e7587" font-size="16px" cellpadding="6" cellspacing="0" width="100%" padding="0">
+          <tbody>
+            <tr>
+              <td width="24" align="center" style="background-color:#e6dbff; border-radius:50%;"><img src="https://placehold.co/14x14/purple/purple?text=✓" alt="check" width="14" height="14" style="display:block" /></td>
+              <td style="padding-left:10px; font-weight:bold; color:#141B2D;">Luxurious Retreat</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td style="padding-left:34px; color:#6e7587; font-weight:normal; font-size:14px;">Transform your space into a haven of relaxation with our indulgent furniture collection.</td>
+            </tr>
+          </tbody>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f1f3f6" padding="0 15px 30px 15px" border="1px dotted #a38aff" border-radius="3px" css-class="footer-section">
+      <mj-column width="25px">
+        <mj-image src="https://placehold.co/50x25/purple/white?text=ACME" alt="ACME" width="50px" padding="0"></mj-image>
+      </mj-column>
+
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text padding="0 0 0 15px" font-family="Arial, sans-serif" font-weight="bold" font-size="14px" color="#141B2D" line-height="18px">
+          Acme corporation
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-size="13px" color="#6e7587" padding="1px 0 0 15px" line-height="16px">
+          Think different
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="25%" vertical-align="middle">
+        <mj-social padding="0" icon-size="20px" mode="horizontal" align="left" font-size="0">
+          <mj-social-element name="facebook" href="#" background-color="#f1f3f6" padding="0 8px"></mj-social-element>
+          <mj-social-element name="twitter" href="#" background-color="#f1f3f6" padding="0 8px"></mj-social-element>
+          <mj-social-element name="instagram" href="#" background-color="#f1f3f6" padding="0 8px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+
+      <mj-column width="25%" vertical-align="middle" padding="0" text-align="right">
+        <mj-text font-family="Arial, sans-serif" font-size="13px" color="#6e7587" line-height="16px" padding="0">
+          123 Main Street Anytown, CA 12345<br />
+          mail@example.com +123456789
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
