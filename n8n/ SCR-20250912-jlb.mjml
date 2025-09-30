@@ -1,0 +1,164 @@
+```mjml
+<mjml>
+  <mj-body width="600px" background-color="#ffffff">
+    <!-- Top bar with logo and link -->
+    <mj-section padding="0 0 15px 0" background-color="#ffffff">
+      <mj-column width="50%">
+        <mj-image
+          src="https://placehold.co/180x60/00115B/ffffff?text=Partena+PROFESSIONAL"
+          alt="Partena Professional"
+          width="160px"
+          padding="15px 0 0 15px"
+          />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text
+          align="right"
+          font-family="Arial, sans-serif"
+          font-size="13px"
+          color="#000000"
+          padding="25px 15px 0 0"
+          >
+          <a href="#" style="color:#000000; text-decoration: underline;">Bekijk deze e-mail online</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Image below top bar -->
+    <mj-section padding="0 0 25px 0">
+      <mj-column>
+        <mj-image
+          src="https://placehold.co/600x215"
+          alt="Happy business woman"
+          padding="0"
+          width="600px"
+          />
+      </mj-column>
+    </mj-section>
+
+    <!-- Headline "Denk vandaag al aan morgen" -->
+    <mj-section padding="0 25px 20px 25px">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-family="Arial, sans-serif"
+          font-size="24px"
+          color="#00115B"
+          font-weight="normal"
+          line-height="28px"
+          padding="0"
+          >
+          Denk vandaag al aan morgen
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Paragraph text -->
+    <mj-section padding="0 25px 20px 25px">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          color="#000000"
+          line-height="20px"
+          padding="0"
+          >
+          Je steekt elke dag veel tijd en energie in je zaak. Maar denk je ook al aan later? Als zelfstandige krijg je namelijk een wettelijk pensioen dat vaak beperkt is. Gelukkig zijn er manieren om dat aan te vullen, met slimme formules die je nu al vooruithelpen. Minder zorgen, meer zekerheid. En dat allemaal met fiscaal voordeel.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Button "Ontdek de oplossingen" -->
+    <mj-section padding="0 25px 40px 25px">
+      <mj-column>
+        <mj-button
+          background-color="#f55a6a"
+          color="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          font-weight="bold"
+          border-radius="3px"
+          padding="12px 25px"
+          href="#"
+          align="left"
+          >
+          Ontdek de oplossingen →
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Dark blue background section -->
+    <mj-section background-color="#0c0a77" padding="20px 25px 25px 25px">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-family="Arial, sans-serif"
+          font-size="24px"
+          color="#ffffff"
+          font-weight="normal"
+          line-height="28px"
+          padding="0 0 15px 0"
+          >
+          Het VAPZ: fiscaal voordelig én flexibel
+        </mj-text>
+        <mj-text
+          align="left"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          color="#ffffff"
+          line-height="20px"
+          padding="0 0 15px 0"
+          >
+          Met een Vrij Aanvullend Pensioen voor Zelfstandigen (VAPZ) spaar je op jouw tempo voor later. Tegelijk verlaag je je belastingen én ben je beschermd bij arbeidsongeschiktheid.
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          color="#00c853"
+          line-height="20px"
+          padding="0 0 7px 0"
+          >
+          ✅ Kies zelf hoeveel en wanneer je spaart
+        </mj-text>
+        <mj-text
+          align="left"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          color="#00c853"
+          line-height="20px"
+          padding="0 0 7px 0"
+          >
+          ✅ Fiscaal voordelig: je recupereert een groot deel van je premie via belastingen en lagere sociale bijdragen
+        </mj-text>
+        <mj-text
+          align="left"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          color="#00c853"
+          line-height="20px"
+          padding="0 0 15px 0"
+          >
+          ✅ Optie tot extra bescherming bij ziekte of ongeval
+        </mj-text>
+
+        <mj-button
+          background-color="#f55a6a"
+          color="#ffffff"
+          font-family="Arial, sans-serif"
+          font-size="14px"
+          font-weight="bold"
+          border-radius="3px"
+          padding="12px 25px"
+          href="#"
+          align="left"
+          >
+          Meer over het VAPZ →
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+```
